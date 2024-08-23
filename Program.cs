@@ -7,8 +7,7 @@ namespace EntityFrameworkCore
     {
         static void Main(string[] args)
         {
-            //CompanyG03DBContext context = new CompanyG03DBContext();
-            //context.Database.Migrate();
+            
         }
     }
 }
